@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdBoard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+513b45c93c05b714412f8fa70a2870624e88b0cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdBoard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdBoard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
